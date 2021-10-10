@@ -1,0 +1,4 @@
+database-passwd:student36
+superuser-name:santhosh
+superuser-password:student36
+
